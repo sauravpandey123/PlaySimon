@@ -22,4 +22,4 @@ A fun and challenging memory game built with HTML, CSS, and JavaScript. Test you
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/PlaySimon.git
+git clone https://github.com/sauravpandey123/PlaySimon.git
